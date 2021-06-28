@@ -8,6 +8,6 @@
 ## Credits
 [Course](https://youtube.com/playlist?list=PLhqJJNjsQ7KH_z21S_XeXD3Ht3WnSqW97) created by [GDQuest](https://github.com/GDQuest).
 
-## Assets
+## Assets and Resources
 - https://github.com/GDQuest/godot-beginner-2d-platformer
 - https://github.com/GDQuest/godot-beginner-2d-platformer/releases/tag/1.1.0
